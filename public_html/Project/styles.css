@@ -1,0 +1,26 @@
+nav{
+    background-color: grey;
+    padding: 1px;
+}
+nav li{
+    display: inline;
+    margin-right: 20px;
+}
+nav li a:hover{
+    color: lightgreen
+}
+section{
+    display: flex;
+}
+article{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    flex: 5;
+}
+body{
+    font-family:sans-serif;
+    background-color: darkgray;
+}
