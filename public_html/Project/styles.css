@@ -9,16 +9,17 @@ nav li{
 nav li a:hover{
     color: lightgreen
 }
-section{
-    display: flex;
+p{
+    margin: 20px;
+    width: 80%;
+    text-align: left;
 }
-article{
-    width: 100%;
-    float: left;
-    text-align: center;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    flex: 5;
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 body{
     font-family:sans-serif;
